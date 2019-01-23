@@ -20,8 +20,7 @@ Instructional websites made simple
   - [ ] One
   - [x] Two
 - Link to [Google](https://google.com)
-- Variables: 
-  - {{reusable}}
-  - {{reusable}}
-  - {{reusable}}
-
+- Variables:
+  {{reusable}}
+  {{reusable}}
+  {{reusable}}
