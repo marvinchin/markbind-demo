@@ -20,7 +20,8 @@ Instructional websites made simple
   - [ ] One
   - [x] Two
 - Link to [Google](https://google.com)
-- Youtube Videos
-@[youtube](v40b3ExbM0c)
-- Variables: {{reusable}}
+- Variables: 
+  - {{reusable}}
+  - {{reusable}}
+  - {{reusable}}
 
