@@ -1,0 +1,30 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "headings": {
+        "hello-mark-bind": "Hello MarkBind",
+        "powerful-syntax": "Powerful Syntax"
+      },
+      "title": "Hello World",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "index.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "components": "Components!",
+        "panel": "Panel",
+        "popovers": "Popovers",
+        "boxes": "Boxes",
+        "tooltip": "Tooltip"
+      },
+      "title": "Components",
+      "footer": "footer.md",
+      "siteNav": "site-nav.md",
+      "src": "components.md",
+      "layout": "default"
+    }
+  ]
+}
