@@ -4,7 +4,8 @@
     {
       "headings": {
         "hello-mark-bind": "Hello MarkBind",
-        "powerful-syntax": "Powerful Syntax"
+        "powerful-syntax": "Powerful Syntax",
+        "variables": "Variables:"
       },
       "title": "Hello World",
       "footer": "footer.md",
