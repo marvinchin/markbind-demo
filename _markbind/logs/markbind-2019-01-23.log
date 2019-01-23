@@ -1,0 +1,415 @@
+2019-01-23T08:56:43.314Z - info: Initialization success.
+2019-01-23T08:57:01.949Z - info: Website generation started at 4:57:01 PM
+2019-01-23T08:57:01.975Z - info: Building assets...
+2019-01-23T08:57:01.980Z - info: Assets built
+2019-01-23T08:57:01.981Z - info: Generating pages...
+2019-01-23T08:57:02.107Z - info: Pages built
+2019-01-23T08:57:02.170Z - info: Website generation complete! Total build time: 0.235s
+2019-01-23T08:57:02.177Z - info: Generate Site durationMs=242
+2019-01-23T08:57:02.185Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T08:57:02.185Z - info: Press CTRL+C to stop ...
+2019-01-23T08:57:02.197Z - info: Site data built
+2019-01-23T08:57:32.921Z - info: [4:57:32 PM] Reload for file deletion: /Users/marvinchin/Documents/Workspace/markbind_demo/resume.md
+2019-01-23T08:57:33.926Z - warn: Rebuilding all source files
+2019-01-23T08:57:34.939Z - info: Assets removed
+2019-01-23T08:57:34.940Z - info: Generating pages...
+2019-01-23T08:57:34.997Z - info: Pages built
+2019-01-23T09:16:34.743Z - info: [5:16:34 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:16:35.745Z - info: Rebuilding affected source files
+2019-01-23T09:16:35.747Z - info: Rebuilding 1 pages
+2019-01-23T09:16:35.827Z - info: Pages rebuilt
+2019-01-23T09:16:35.828Z - info: Site data built
+2019-01-23T09:17:00.174Z - info: [5:17:00 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:17:01.179Z - info: Rebuilding affected source files
+2019-01-23T09:17:01.180Z - info: Rebuilding 1 pages
+2019-01-23T09:17:01.241Z - info: Pages rebuilt
+2019-01-23T09:17:01.243Z - info: Site data built
+2019-01-23T09:17:29.846Z - info: [5:17:29 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:17:30.848Z - info: Rebuilding affected source files
+2019-01-23T09:17:30.849Z - info: Rebuilding 1 pages
+2019-01-23T09:17:30.883Z - info: Pages rebuilt
+2019-01-23T09:17:30.885Z - info: Site data built
+2019-01-23T09:17:44.272Z - info: [5:17:44 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:17:45.274Z - info: Rebuilding affected source files
+2019-01-23T09:17:45.275Z - info: Rebuilding 1 pages
+2019-01-23T09:17:45.301Z - info: Pages rebuilt
+2019-01-23T09:17:45.302Z - info: Site data built
+2019-01-23T09:19:56.724Z - info: [5:19:56 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:19:57.728Z - info: Rebuilding affected source files
+2019-01-23T09:19:57.728Z - info: Rebuilding 1 pages
+2019-01-23T09:19:57.758Z - info: Pages rebuilt
+2019-01-23T09:19:57.759Z - info: Site data built
+2019-01-23T09:20:04.213Z - info: Website generation started at 5:20:04 PM
+2019-01-23T09:20:04.241Z - info: Building assets...
+2019-01-23T09:20:04.246Z - info: Assets built
+2019-01-23T09:20:04.247Z - info: Generating pages...
+2019-01-23T09:20:04.355Z - info: Pages built
+2019-01-23T09:20:04.417Z - info: Website generation complete! Total build time: 0.226s
+2019-01-23T09:20:04.431Z - info: Generate Site durationMs=239
+2019-01-23T09:20:04.444Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:20:04.444Z - info: Press CTRL+C to stop ...
+2019-01-23T09:20:04.463Z - info: Site data built
+2019-01-23T09:20:20.802Z - info: [5:20:20 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:20:21.805Z - info: Rebuilding affected source files
+2019-01-23T09:20:21.806Z - info: Rebuilding 1 pages
+2019-01-23T09:20:21.859Z - info: Pages rebuilt
+2019-01-23T09:20:21.863Z - info: Site data built
+2019-01-23T09:20:43.549Z - info: [5:20:43 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:20:44.550Z - info: Rebuilding affected source files
+2019-01-23T09:20:44.551Z - info: Rebuilding 1 pages
+2019-01-23T09:20:44.592Z - info: Pages rebuilt
+2019-01-23T09:20:44.593Z - info: Site data built
+2019-01-23T09:21:02.972Z - info: [5:21:02 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:21:03.974Z - info: Rebuilding affected source files
+2019-01-23T09:21:03.974Z - info: Rebuilding 1 pages
+2019-01-23T09:21:04.003Z - info: Pages rebuilt
+2019-01-23T09:21:04.005Z - info: Site data built
+2019-01-23T09:21:26.545Z - info: [5:21:26 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:21:27.549Z - info: Rebuilding affected source files
+2019-01-23T09:21:27.550Z - info: Rebuilding 1 pages
+2019-01-23T09:21:27.587Z - info: Pages rebuilt
+2019-01-23T09:21:27.588Z - info: Site data built
+2019-01-23T09:22:40.136Z - info: [5:22:40 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:22:40.470Z - info: [5:22:40 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:22:41.142Z - info: Rebuilding affected source files
+2019-01-23T09:22:41.142Z - info: Rebuilding 1 pages
+2019-01-23T09:22:41.175Z - info: Pages rebuilt
+2019-01-23T09:22:41.177Z - info: Site data built
+2019-01-23T09:22:46.245Z - info: Website generation started at 5:22:46 PM
+2019-01-23T09:22:46.271Z - info: Building assets...
+2019-01-23T09:22:46.276Z - info: Assets built
+2019-01-23T09:22:46.276Z - info: Generating pages...
+2019-01-23T09:22:46.378Z - info: Pages built
+2019-01-23T09:22:46.429Z - info: Website generation complete! Total build time: 0.203s
+2019-01-23T09:22:46.438Z - info: Generate Site durationMs=213
+2019-01-23T09:22:46.446Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:22:46.446Z - info: Press CTRL+C to stop ...
+2019-01-23T09:22:46.458Z - info: Site data built
+2019-01-23T09:24:31.505Z - info: [5:24:31 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:24:32.508Z - info: Rebuilding affected source files
+2019-01-23T09:24:32.509Z - info: Rebuilding 1 pages
+2019-01-23T09:24:32.562Z - info: Pages rebuilt
+2019-01-23T09:24:32.563Z - info: Site data built
+2019-01-23T09:24:49.344Z - info: [5:24:49 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:24:50.346Z - info: Rebuilding affected source files
+2019-01-23T09:24:50.347Z - info: Rebuilding 1 pages
+2019-01-23T09:24:50.381Z - info: Pages rebuilt
+2019-01-23T09:24:50.382Z - info: Site data built
+2019-01-23T09:24:55.535Z - info: [5:24:55 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:24:56.541Z - info: Rebuilding affected source files
+2019-01-23T09:24:56.542Z - info: Rebuilding 1 pages
+2019-01-23T09:24:56.573Z - info: Pages rebuilt
+2019-01-23T09:24:56.574Z - info: Site data built
+2019-01-23T09:25:53.171Z - info: [5:25:53 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/variables.md
+2019-01-23T09:25:54.173Z - info: Rebuilding affected source files
+2019-01-23T09:25:54.191Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-01-23T09:25:54.191Z - info: Rebuilding 1 pages
+2019-01-23T09:25:54.242Z - info: Pages rebuilt
+2019-01-23T09:25:54.243Z - info: Site data built
+2019-01-23T09:25:55.001Z - info: [5:25:55 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:25:56.003Z - info: Rebuilding affected source files
+2019-01-23T09:25:56.004Z - info: Rebuilding 1 pages
+2019-01-23T09:25:56.034Z - info: Pages rebuilt
+2019-01-23T09:25:56.036Z - info: Site data built
+2019-01-23T09:26:01.895Z - info: [5:26:01 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:26:02.899Z - info: Rebuilding affected source files
+2019-01-23T09:26:02.900Z - info: Rebuilding 1 pages
+2019-01-23T09:26:02.932Z - info: Pages rebuilt
+2019-01-23T09:26:02.933Z - info: Site data built
+2019-01-23T09:26:15.652Z - info: [5:26:15 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/variables.md
+2019-01-23T09:26:16.656Z - info: Rebuilding affected source files
+2019-01-23T09:26:16.665Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-01-23T09:26:16.666Z - info: Rebuilding 1 pages
+2019-01-23T09:26:16.690Z - info: Pages rebuilt
+2019-01-23T09:26:16.691Z - info: Site data built
+2019-01-23T09:28:09.625Z - info: [5:28:09 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/variables.md
+2019-01-23T09:28:10.631Z - info: Rebuilding affected source files
+2019-01-23T09:28:10.641Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-01-23T09:28:10.641Z - info: Rebuilding 1 pages
+2019-01-23T09:28:10.673Z - info: Pages rebuilt
+2019-01-23T09:28:10.674Z - info: Site data built
+2019-01-23T09:28:15.494Z - info: [5:28:15 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/variables.md
+2019-01-23T09:28:16.495Z - info: Rebuilding affected source files
+2019-01-23T09:28:16.507Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-01-23T09:28:16.508Z - info: Rebuilding 1 pages
+2019-01-23T09:28:16.539Z - info: Pages rebuilt
+2019-01-23T09:28:16.540Z - info: Site data built
+2019-01-23T09:28:55.067Z - info: [5:28:55 PM] Reload for file add: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:28:56.069Z - warn: Rebuilding all source files
+2019-01-23T09:28:56.660Z - info: [5:28:56 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:28:57.078Z - info: Assets removed
+2019-01-23T09:28:57.079Z - info: Generating pages...
+2019-01-23T09:28:57.129Z - info: Pages built
+2019-01-23T09:28:57.665Z - info: Rebuilding affected source files
+2019-01-23T09:28:57.665Z - info: Rebuilding 1 pages
+2019-01-23T09:28:57.683Z - info: Pages rebuilt
+2019-01-23T09:28:57.685Z - info: Site data built
+2019-01-23T09:29:13.711Z - info: [5:29:13 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:29:14.713Z - info: Rebuilding affected source files
+2019-01-23T09:29:14.714Z - info: Rebuilding 1 pages
+2019-01-23T09:29:14.733Z - info: Pages rebuilt
+2019-01-23T09:29:14.735Z - info: Site data built
+2019-01-23T09:30:58.199Z - info: Website generation started at 5:30:58 PM
+2019-01-23T09:30:58.226Z - info: Building assets...
+2019-01-23T09:30:58.231Z - info: Assets built
+2019-01-23T09:30:58.232Z - info: Generating pages...
+2019-01-23T09:30:58.346Z - info: Pages built
+2019-01-23T09:30:58.414Z - info: Website generation complete! Total build time: 0.239s
+2019-01-23T09:30:58.428Z - info: Generate Site durationMs=253
+2019-01-23T09:30:58.445Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:30:58.446Z - info: Press CTRL+C to stop ...
+2019-01-23T09:30:58.463Z - info: Site data built
+2019-01-23T09:31:08.416Z - info: [5:31:08 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:31:09.419Z - info: Rebuilding affected source files
+2019-01-23T09:31:09.420Z - info: Rebuilding 1 pages
+2019-01-23T09:31:09.438Z - info: Pages rebuilt
+2019-01-23T09:31:09.440Z - info: Site data built
+2019-01-23T09:31:43.250Z - info: [5:31:43 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:31:44.254Z - info: Rebuilding affected source files
+2019-01-23T09:31:44.256Z - info: Rebuilding 1 pages
+2019-01-23T09:31:44.293Z - info: Pages rebuilt
+2019-01-23T09:31:44.294Z - info: Site data built
+2019-01-23T09:33:06.220Z - info: [5:33:06 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/site.json
+2019-01-23T09:33:07.225Z - info: Assets built
+2019-01-23T09:33:12.440Z - info: Website generation started at 5:33:12 PM
+2019-01-23T09:33:12.465Z - info: Building assets...
+2019-01-23T09:33:12.470Z - info: Assets built
+2019-01-23T09:33:12.470Z - info: Generating pages...
+2019-01-23T09:33:12.598Z - info: Pages built
+2019-01-23T09:33:12.655Z - info: Website generation complete! Total build time: 0.242s
+2019-01-23T09:33:12.663Z - info: Generate Site durationMs=250
+2019-01-23T09:33:12.670Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:33:12.671Z - info: Press CTRL+C to stop ...
+2019-01-23T09:33:12.687Z - info: Site data built
+2019-01-23T09:33:30.174Z - info: [5:33:30 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/site.json
+2019-01-23T09:33:31.179Z - info: Assets built
+2019-01-23T09:33:34.050Z - info: Website generation started at 5:33:34 PM
+2019-01-23T09:33:34.073Z - info: Building assets...
+2019-01-23T09:33:34.079Z - info: Assets built
+2019-01-23T09:33:34.079Z - info: Generating pages...
+2019-01-23T09:33:34.204Z - info: Pages built
+2019-01-23T09:33:34.270Z - info: Website generation complete! Total build time: 0.249s
+2019-01-23T09:33:34.283Z - info: Generate Site durationMs=262
+2019-01-23T09:33:34.300Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:33:34.301Z - info: Press CTRL+C to stop ...
+2019-01-23T09:33:34.320Z - info: Site data built
+2019-01-23T09:34:38.588Z - info: [5:34:38 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/navigation/site-nav.md
+2019-01-23T09:34:39.593Z - info: Rebuilding affected source files
+2019-01-23T09:34:39.594Z - info: Rebuilding 2 pages
+2019-01-23T09:34:39.664Z - info: Pages rebuilt
+2019-01-23T09:34:39.665Z - info: Site data built
+2019-01-23T09:37:44.706Z - info: [5:37:44 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:37:45.709Z - info: Rebuilding affected source files
+2019-01-23T09:37:45.711Z - info: Rebuilding 1 pages
+2019-01-23T09:37:45.760Z - info: Pages rebuilt
+2019-01-23T09:37:45.762Z - info: Site data built
+2019-01-23T09:40:13.554Z - info: [5:40:13 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:40:14.559Z - info: Rebuilding affected source files
+2019-01-23T09:40:14.560Z - info: Rebuilding 1 pages
+2019-01-23T09:40:14.605Z - info: Pages rebuilt
+2019-01-23T09:40:14.606Z - info: Site data built
+2019-01-23T09:41:32.140Z - info: [5:41:32 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:41:33.145Z - info: Rebuilding affected source files
+2019-01-23T09:41:33.146Z - info: Rebuilding 1 pages
+2019-01-23T09:41:33.204Z - info: Pages rebuilt
+2019-01-23T09:41:33.205Z - info: Site data built
+2019-01-23T09:43:47.834Z - info: [5:43:47 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:43:48.839Z - info: Rebuilding affected source files
+2019-01-23T09:43:48.839Z - info: Rebuilding 1 pages
+2019-01-23T09:43:48.880Z - info: Pages rebuilt
+2019-01-23T09:43:48.882Z - info: Site data built
+2019-01-23T09:44:32.195Z - info: [5:44:32 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:44:33.197Z - info: Rebuilding affected source files
+2019-01-23T09:44:33.198Z - info: Rebuilding 1 pages
+2019-01-23T09:44:33.237Z - info: Pages rebuilt
+2019-01-23T09:44:33.238Z - info: Site data built
+2019-01-23T09:45:07.039Z - info: [5:45:07 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:45:08.043Z - info: Rebuilding affected source files
+2019-01-23T09:45:08.044Z - info: Rebuilding 2 pages
+2019-01-23T09:45:08.163Z - info: Pages rebuilt
+2019-01-23T09:45:08.165Z - info: Site data built
+2019-01-23T09:45:13.043Z - info: [5:45:13 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:45:14.047Z - info: Rebuilding affected source files
+2019-01-23T09:45:14.048Z - info: Rebuilding 2 pages
+2019-01-23T09:45:14.122Z - info: Pages rebuilt
+2019-01-23T09:45:14.123Z - info: Site data built
+2019-01-23T09:45:44.624Z - info: [5:45:44 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:45:45.630Z - info: Rebuilding affected source files
+2019-01-23T09:45:45.630Z - info: Rebuilding 2 pages
+2019-01-23T09:45:45.701Z - info: Pages rebuilt
+2019-01-23T09:45:45.703Z - info: Site data built
+2019-01-23T09:46:07.869Z - info: [5:46:07 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:46:08.874Z - info: Rebuilding affected source files
+2019-01-23T09:46:08.875Z - info: Rebuilding 2 pages
+2019-01-23T09:46:08.950Z - info: Pages rebuilt
+2019-01-23T09:46:08.951Z - info: Site data built
+2019-01-23T09:47:42.667Z - info: [5:47:42 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:47:43.672Z - info: Rebuilding affected source files
+2019-01-23T09:47:43.673Z - info: Rebuilding 2 pages
+2019-01-23T09:47:43.729Z - info: Pages rebuilt
+2019-01-23T09:47:43.731Z - info: Site data built
+2019-01-23T09:48:18.308Z - info: [5:48:18 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:48:19.311Z - info: Rebuilding affected source files
+2019-01-23T09:48:19.312Z - info: Rebuilding 2 pages
+2019-01-23T09:48:19.369Z - info: Pages rebuilt
+2019-01-23T09:48:19.370Z - info: Site data built
+2019-01-23T09:48:38.615Z - info: [5:48:38 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:48:39.617Z - info: Rebuilding affected source files
+2019-01-23T09:48:39.619Z - info: Rebuilding 2 pages
+2019-01-23T09:48:39.679Z - info: Pages rebuilt
+2019-01-23T09:48:39.681Z - info: Site data built
+2019-01-23T09:49:11.174Z - info: [5:49:11 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:49:12.176Z - info: Rebuilding affected source files
+2019-01-23T09:49:12.177Z - info: Rebuilding 2 pages
+2019-01-23T09:49:12.234Z - info: Pages rebuilt
+2019-01-23T09:49:12.235Z - info: Site data built
+2019-01-23T09:50:52.392Z - info: [5:50:52 PM] Reload for file add: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/common/header.md
+2019-01-23T09:50:53.393Z - warn: Rebuilding all source files
+2019-01-23T09:50:53.789Z - info: [5:50:53 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/common/header.md
+2019-01-23T09:50:54.407Z - info: Assets removed
+2019-01-23T09:50:54.407Z - info: Generating pages...
+2019-01-23T09:50:54.482Z - info: Pages built
+2019-01-23T09:50:54.790Z - info: Rebuilding affected source files
+2019-01-23T09:50:54.793Z - info: Rebuilding 0 pages
+2019-01-23T09:50:54.794Z - info: Pages rebuilt
+2019-01-23T09:50:54.802Z - info: Site data built
+2019-01-23T09:51:13.595Z - info: [5:51:13 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:51:14.597Z - info: Rebuilding affected source files
+2019-01-23T09:51:14.598Z - info: Rebuilding 1 pages
+2019-01-23T09:51:14.602Z - error:  Error: No such file: /Users/marvinchin/Documents/Workspace/common/header.md
+Missing reference in /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+    at Parser._preprocess (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:145:21)
+    at dom.map (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:384:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:381:25)
+    at DomHandler._handleCallback.DomHandler.onerror (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:52:8)
+    at DomHandler.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:46:7)
+    at Parser.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:310:32)
+    at Tokenizer._finish (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:853:12)
+    at Tokenizer.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:844:25)
+    at Parser.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:338:18)
+    at Parser.parseComplete (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:330:7)
+    at fs.readFile (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:420:16)
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-01-23T09:51:14.644Z - info: Pages rebuilt
+2019-01-23T09:51:14.645Z - info: Site data built
+2019-01-23T09:51:27.350Z - info: [5:51:27 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/common/header.md
+2019-01-23T09:51:28.352Z - info: Rebuilding affected source files
+2019-01-23T09:51:28.352Z - info: Rebuilding 0 pages
+2019-01-23T09:51:28.353Z - info: Pages rebuilt
+2019-01-23T09:51:28.354Z - info: Site data built
+2019-01-23T09:51:42.590Z - info: [5:51:42 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/common/header.md
+2019-01-23T09:51:43.592Z - info: Rebuilding affected source files
+2019-01-23T09:51:43.593Z - info: Rebuilding 0 pages
+2019-01-23T09:51:43.593Z - info: Pages rebuilt
+2019-01-23T09:51:43.594Z - info: Site data built
+2019-01-23T09:51:53.746Z - info: Website generation started at 5:51:53 PM
+2019-01-23T09:51:53.770Z - info: Building assets...
+2019-01-23T09:51:53.775Z - info: Assets built
+2019-01-23T09:51:53.776Z - info: Generating pages...
+2019-01-23T09:51:53.790Z - error:  Error: No such file: /Users/marvinchin/Documents/Workspace/common/header.md
+Missing reference in /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+    at Parser._preprocess (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:145:21)
+    at dom.map (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:384:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:381:25)
+    at DomHandler._handleCallback.DomHandler.onerror (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:52:8)
+    at DomHandler.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:46:7)
+    at Parser.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:310:32)
+    at Tokenizer._finish (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:853:12)
+    at Tokenizer.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:844:25)
+    at Parser.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:338:18)
+    at Parser.parseComplete (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:330:7)
+    at fs.readFile (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:420:16)
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-01-23T09:51:53.929Z - info: Pages built
+2019-01-23T09:51:54.009Z - info: Website generation complete! Total build time: 0.289s
+2019-01-23T09:51:54.022Z - info: Generate Site durationMs=303
+2019-01-23T09:51:54.036Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:51:54.036Z - info: Press CTRL+C to stop ...
+2019-01-23T09:51:54.059Z - info: Site data built
+2019-01-23T09:52:01.916Z - info: [5:52:01 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/layouts/default/head.md
+2019-01-23T09:52:02.919Z - info: Rebuilding affected source files
+2019-01-23T09:52:02.921Z - info: Rebuilding 2 pages
+2019-01-23T09:52:02.944Z - error:  Error: No such file: /Users/marvinchin/Documents/Workspace/common/header.md
+Missing reference in /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+    at Parser._preprocess (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:145:21)
+    at dom.map (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:384:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:381:25)
+    at DomHandler._handleCallback.DomHandler.onerror (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:52:8)
+    at DomHandler.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:46:7)
+    at Parser.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:310:32)
+    at Tokenizer._finish (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:853:12)
+    at Tokenizer.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:844:25)
+    at Parser.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:338:18)
+    at Parser.parseComplete (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:330:7)
+    at fs.readFile (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:420:16)
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-01-23T09:52:03.005Z - info: Pages rebuilt
+2019-01-23T09:52:03.007Z - info: Site data built
+2019-01-23T09:52:10.821Z - info: [5:52:10 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:52:11.823Z - info: Rebuilding affected source files
+2019-01-23T09:52:11.824Z - info: Rebuilding 1 pages
+2019-01-23T09:52:11.827Z - error:  Error: No such file: /Users/marvinchin/Documents/Workspace/markbind_demo/common/header.md
+Missing reference in /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+    at Parser._preprocess (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:145:21)
+    at dom.map (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:384:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:381:25)
+    at DomHandler._handleCallback.DomHandler.onerror (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:52:8)
+    at DomHandler.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/domhandler/index.js:46:7)
+    at Parser.onend (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:310:32)
+    at Tokenizer._finish (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:853:12)
+    at Tokenizer.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Tokenizer.js:844:25)
+    at Parser.end (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:338:18)
+    at Parser.parseComplete (/usr/local/lib/node_modules/markbind-cli/node_modules/htmlparser2/lib/Parser.js:330:7)
+    at fs.readFile (/usr/local/lib/node_modules/markbind-cli/src/lib/markbind/src/parser.js:420:16)
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-01-23T09:52:11.874Z - info: Pages rebuilt
+2019-01-23T09:52:11.876Z - info: Site data built
+2019-01-23T09:52:33.458Z - info: [5:52:33 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:52:34.465Z - info: Rebuilding affected source files
+2019-01-23T09:52:34.465Z - info: Rebuilding 1 pages
+2019-01-23T09:52:34.521Z - info: Pages rebuilt
+2019-01-23T09:52:34.522Z - info: Site data built
+2019-01-23T09:53:07.311Z - info: [5:53:07 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:53:08.315Z - info: Rebuilding affected source files
+2019-01-23T09:53:08.317Z - info: Rebuilding 1 pages
+2019-01-23T09:53:08.382Z - info: Pages rebuilt
+2019-01-23T09:53:08.383Z - info: Site data built
+2019-01-23T09:53:13.420Z - info: Website generation started at 5:53:13 PM
+2019-01-23T09:53:13.447Z - info: Building assets...
+2019-01-23T09:53:13.452Z - info: Assets built
+2019-01-23T09:53:13.452Z - info: Generating pages...
+2019-01-23T09:53:13.608Z - info: Pages built
+2019-01-23T09:53:13.674Z - info: Website generation complete! Total build time: 0.279s
+2019-01-23T09:53:13.682Z - info: Generate Site durationMs=287
+2019-01-23T09:53:13.690Z - info: Serving "/Users/marvinchin/Documents/Workspace/markbind_demo/_site" at http://127.0.0.1:8080
+2019-01-23T09:53:13.690Z - info: Press CTRL+C to stop ...
+2019-01-23T09:53:13.704Z - info: Site data built
+2019-01-23T09:54:17.454Z - info: [5:54:17 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/_markbind/common/header.md
+2019-01-23T09:54:18.456Z - info: Rebuilding affected source files
+2019-01-23T09:54:18.458Z - info: Rebuilding 1 pages
+2019-01-23T09:54:18.527Z - info: Pages rebuilt
+2019-01-23T09:54:18.528Z - info: Site data built
+2019-01-23T09:54:42.101Z - info: [5:54:42 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:54:43.104Z - info: Rebuilding affected source files
+2019-01-23T09:54:43.106Z - info: Rebuilding 1 pages
+2019-01-23T09:54:43.151Z - info: Pages rebuilt
+2019-01-23T09:54:43.152Z - info: Site data built
+2019-01-23T09:54:58.633Z - info: [5:54:58 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/components.md
+2019-01-23T09:54:59.637Z - info: Rebuilding affected source files
+2019-01-23T09:54:59.638Z - info: Rebuilding 1 pages
+2019-01-23T09:54:59.686Z - info: Pages rebuilt
+2019-01-23T09:54:59.687Z - info: Site data built
+2019-01-23T09:55:15.280Z - info: [5:55:15 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:55:16.283Z - info: Rebuilding affected source files
+2019-01-23T09:55:16.284Z - info: Rebuilding 1 pages
+2019-01-23T09:55:16.379Z - info: Pages rebuilt
+2019-01-23T09:55:16.386Z - info: Site data built
+2019-01-23T09:55:52.035Z - info: [5:55:52 PM] Reload for file change: /Users/marvinchin/Documents/Workspace/markbind_demo/index.md
+2019-01-23T09:55:53.039Z - info: Rebuilding affected source files
+2019-01-23T09:55:53.040Z - info: Rebuilding 1 pages
+2019-01-23T09:55:53.073Z - info: Pages rebuilt
+2019-01-23T09:55:53.074Z - info: Site data built
